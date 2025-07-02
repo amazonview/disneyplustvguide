@@ -10,7 +10,7 @@ How to Login and Activate Disney Plus on TV?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_19.png
    :width: 350px
    :align: center
    :height: 100px
